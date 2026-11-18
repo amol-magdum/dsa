@@ -1,0 +1,1 @@
+// use either pass by value or pass by pointer to pass parameters to functions in C++.
